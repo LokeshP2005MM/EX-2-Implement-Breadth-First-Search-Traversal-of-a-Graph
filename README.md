@@ -62,30 +62,38 @@ start_node = input("Enter the starting node for BFS: ")
 ### Sample Input:
 
 Enter number of nodes: 6
+
 Enter node: A
 
 Enter neighbors of A (comma separated): B,C
+
 Enter node: B
 
 Enter neighbors of B (comma separated): D,E
+
 Enter node: C
 
 Enter neighbors of C (comma separated): F
+
 Enter node: D
 
 Enter neighbors of D (comma separated):
+
 Enter node: E
 
 Enter neighbors of E (comma separated):
+
 Enter node: F
 
 Enter neighbors of F (comma separated):
+
 Enter the starting node for BFS: A
 
 
 ### Sample Output:
 
-BFS Traversal: ['A', 'B', 'C', 'D', 'E', 'F']
+BFS Traversal:
+['A', 'B', 'C', 'D', 'E', 'F']
 
 
 ### Result:
