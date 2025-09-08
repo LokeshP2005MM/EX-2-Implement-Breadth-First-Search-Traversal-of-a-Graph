@@ -62,7 +62,9 @@ start_node = input("Enter the starting node for BFS: ")
 ### Sample Input:
 
 Enter number of nodes: 6
+
 Enter node: A
+
 Enter neighbors of A (comma separated): B,C
 Enter node: B
 Enter neighbors of B (comma separated): D,E
