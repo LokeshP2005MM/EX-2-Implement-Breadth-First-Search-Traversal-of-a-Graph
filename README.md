@@ -83,40 +83,11 @@ BFS Traversal Order: ['A', 'B', 'C']
 
 # Input:
 
-Enter number of nodes: 6
-
-Enter node: A
-
-Enter neighbors of A (comma separated): B,C
-
-Enter node: B
-
-Enter neighbors of B (comma separated): D,E
-
-Enter node: C
-
-Enter neighbors of C (comma separated): F
-
-Enter node: D
-
-Enter neighbors of D (comma separated):
-
-Enter node: E
-
-Enter neighbors of E (comma separated):
-
-Enter node: F
-
-Enter neighbors of F (comma separated):
-
-Enter the starting node for BFS: A
-
+<img width="444" height="687" alt="Screenshot 2025-09-08 142930" src="https://github.com/user-attachments/assets/4528dec4-2f1a-4ccf-8e3e-15436f96a77b" />
 
 # Output:
-
-BFS Traversal:
-['A', 'B', 'C', 'D', 'E', 'F']
+<img width="368" height="38" alt="Screenshot 2025-09-08 142942" src="https://github.com/user-attachments/assets/9d2785a8-0f07-4ae7-afe7-de529a17c8b1" />
 
 
 ### Result:
-The above program is executed successfully
+The above program is executed successfully.
