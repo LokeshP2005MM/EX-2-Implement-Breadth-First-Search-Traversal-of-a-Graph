@@ -58,8 +58,30 @@ for _ in range(n):
 start_node = input("Enter the starting node for BFS: ")
 
 
+print("BFS Traversal Order:", bfs(graph, start_node))
 ```
-### Sample Input:
+
+# Sample input
+Enter number of nodes: 3
+
+Enter node: A
+
+Enter neighbors of A (comma separated): B
+
+Enter node: B
+
+Enter neighbors of B (comma separated): C
+
+Enter node: C
+
+Enter neighbors of C (comma separated):
+
+Enter the starting node for BFS: A
+
+# Sample Output:
+BFS Traversal Order: ['A', 'B', 'C']
+
+# Input:
 
 Enter number of nodes: 6
 
@@ -90,7 +112,7 @@ Enter neighbors of F (comma separated):
 Enter the starting node for BFS: A
 
 
-### Sample Output:
+# Output:
 
 BFS Traversal:
 ['A', 'B', 'C', 'D', 'E', 'F']
